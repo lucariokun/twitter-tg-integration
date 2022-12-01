@@ -1,0 +1,9 @@
+{
+    "twitter" : {
+        "watched_users": [{str}]
+    },
+    "telegram": {
+        "main_channel": {int},
+        "approving_channel": {int}
+    }
+}
